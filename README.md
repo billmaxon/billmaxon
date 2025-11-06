@@ -251,7 +251,7 @@
 ```yaml
 🏭 Distribution Center Information Systems:
   Facility: Enterprise Distribution Center
-  Team: Global Technology Group - Command Information Architecture
+  Team: Global Technology Group - Continuous Improvement and Automation
   Focus: Continuous Improvement & Automation
   
 🎯 Key Responsibilities:
