@@ -37,10 +37,10 @@
  
 ```yaml
 👤 Profile:
-  role: "Distribution Center Information Systems (DCIS) Engineer"
+  role: Lead Business Systems Engineer with a specialization on Distribution Center Information Systems
   organization: "Enterprise Distribution"
   team: "Global Technology Group - Command Information Architecture"
-  location: "United States 🇺�"
+  location: "Chicago, IL Region"
   specialization: "SAP EWM & Warehouse Automation"
   
 💡 Mission:
@@ -315,7 +315,7 @@
  
 **Distribution Center Technology • SAP EWM • Warehouse Automation • System Integration**
  
-[![Email](https://img.shields.io/badge/📧_Email_Me-Contact_Me-EA4335?style=for-the-badge&logoColor=white)](mailto:contact@example.com)
+[![Email](https://img.shields.io/badge/📧_Email_Me-Contact_Me-EA4335?style=for-the-badge&logoColor=white)](mailto:tawstarlin@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&am…)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/billmaxon)
  
