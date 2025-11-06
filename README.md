@@ -38,8 +38,8 @@
 ```yaml
 👤 Profile:
   role: Lead Business Systems Engineer with a specialization on Distribution Center Information Systems
-  organization: "Enterprise Distribution"
-  team: "Global Technology Group - Command Information Architecture"
+  organization: "Business Systems and Operations"
+  team: "Global Technology Group - Continuous Improvement and Automation"
   location: "Chicago, IL Region"
   specialization: "SAP EWM & Warehouse Automation"
   
