@@ -4,9 +4,9 @@
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=900&lines=Distribution+Center+Information+Systems+Engineer;SAP+EWM+%26+Warehouse+Automation+Specialist;Mission-Critical+Distribution+Technology;Industrial+Automation+%26+Robotics+Integration)](https://github.com/billmaxon)
  
-**🏭 Enterprise Warehouse Technology | W.W. Grainger, Inc. | Operational Excellence 🚀**
+**🏭 Enterprise Warehouse Technology | Operational Excellence 🚀**
  
-[![Email](https://img.shields.io/badge/📧_Email-bill.maxon@grainger.com-EA4335?style=for-the-badge&logoColor=white)](mailto:bill.maxon@grainger.com)
+[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-EA4335?style=for-the-badge&logoColor=white)](mailto:contact@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/billmaxon)
 [![Profile Views](https://komarev.com/ghpvc/?username=billmaxon&color=blueviolet&style=for-the-badge&label=Profile+Views)](https://github.com/billmaxon)
@@ -348,3 +348,5 @@
 ![Powered by Grainger](https://img.shields.io/badge/Powered_by-W.W._Grainger-red?style=for-the-badge)
  
 </div>
+ 
+ 
