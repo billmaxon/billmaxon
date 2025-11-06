@@ -2,7 +2,7 @@
  
 # 👋 Hey there! I'm Bill Maxon
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=900&lines=Distribution+Center+Information+Systems+Engineer;SAP+EWM+%26+Warehouse+Automation+Specialist;Mission-Critical+Distribution+Technology;Industrial+Automation+%26+Robotics+Integration)](https://github.com/billmaxon)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=900&lines=Lead+Business+Systems+Engineer;SAP+EWM+%26+Warehouse+Automation+Specialist;Mission-Critical+Distribution+Technology;Industrial+Automation+%26+Robotics+Integration)](https://github.com/billmaxon)
  
 **🏭 Enterprise Warehouse Technology | Operational Excellence 🚀**
  
