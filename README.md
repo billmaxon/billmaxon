@@ -22,9 +22,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=billmaxon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=billmaxon&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
  
-#[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=billmaxon&theme=tokyonight&hide_border=true)](https://github.com/billmaxon)
- 
-#[![trophy](https://github-profile-trophy.vercel.app/?username=billmaxon&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/billmaxon)
  
 </div>
  
