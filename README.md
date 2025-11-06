@@ -41,9 +41,9 @@
 ```yaml
 👤 Profile:
   role: "Distribution Center Information Systems (DCIS) Engineer"
-  organization: "W.W. Grainger, Inc."
-  team: "Global Technology Group - Command Information Architecture (GTGCIA)"
-  location: "Illinois Distribution Center, Minooka, IL 🏭"
+  organization: "Enterprise Distribution"
+  team: "Global Technology Group - Command Information Architecture"
+  location: "United States 🇺�"
   specialization: "SAP EWM & Warehouse Automation"
   
 💡 Mission:
@@ -101,15 +101,15 @@
 <summary><b>🤖 Warehouse Automation & Robotics</b></summary>
 <br>
  
-![Exotec](https://img.shields.io/badge/Exotec_AMR-FF6B6B?style=for-the-badge&logoColor=white)
-![Dematic](https://img.shields.io/badge/Dematic_WCS-00529B?style=for-the-badge&logoColor=white)
-![SPARCK](https://img.shields.io/badge/SPARCK_Packaging-FF9500?style=for-the-badge&logoColor=white)
+![Robotics](https://img.shields.io/badge/AMR_Robotics-FF6B6B?style=for-the-badge&logoColor=white)
+![WCS](https://img.shields.io/badge/Warehouse_Control_System-00529B?style=for-the-badge&logoColor=white)
+![Automation](https://img.shields.io/badge/Automated_Packaging-FF9500?style=for-the-badge&logoColor=white)
  
 **Automation Solutions:**
-- Exotec Robotic Storage & Retrieval Systems (Skypod)
-- Dematic Director IT Warehouse Control System
+- Robotic Storage & Retrieval Systems (AMR)
+- Warehouse Control System Integration
 - Automated Small Parts Picking Optimization
-- SPARCK Automated Packaging Integration
+- Automated Packaging Integration
 - Conveyor System Integration & Management
  
 </details>
@@ -176,10 +176,9 @@
  
 | 🎯 Achievement | 💡 Impact |
 |:---------------|:----------|
-| **99.9%+ System Uptime** | Maintaining mission-critical reliability for warehouse operations processing thousands of daily orders |
-| **EWM Cloud Migration Leadership** | Driving SAP EWM 7.0 to S4 HANA migrations across multiple distribution centers |
-| **Robotic Automation Pioneer** | Implementing first-of-kind Exotec AMR solutions in industrial distribution |
-| **Critical Incident Response** | Rapid Code Red event resolution ensuring minimal operational disruption |
+| **EWM Cloud Migration Leadership** | Driving SAP EWM 7.0 to S4 HANA migrations across enterprise distribution centers |
+| **Robotic Automation Pioneer** | Implementing advanced AMR solutions in industrial distribution |
+| **Critical Incident Response** | Rapid incident resolution ensuring minimal operational disruption |
 | **Cross-Functional Excellence** | Leading complex integrations with operations, engineering, and vendor teams |
  
 </div>
@@ -197,8 +196,8 @@
 | 🛠️ Project | 🎯 Objective | 🔧 Technology |
 |:-----------|:------------|:-------------|
 | **EWM S4 HANA Cloud Migration** | Modernize warehouse management infrastructure for scalability and performance | SAP S4 HANA, AWS Cloud |
-| **Exotec 2.0 Implementation** | Deploy next-generation automated picking and storage systems | Exotec AMR, Warehouse Robotics |
-| **Tech Bridge Dashboard** | Provide real-time operational visibility and control across ILDC facility | DataDog, Custom Dashboards |
+| **Robotic Implementation** | Deploy next-generation automated picking and storage systems | AMR, Warehouse Robotics |
+| **Operations Dashboard** | Provide real-time operational visibility and control across facility | DataDog, Custom Dashboards |
 | **CMDB Service Mapping** | Enhance IT service management and system dependency tracking | ServiceNow, Integration APIs |
  
 ---
@@ -209,7 +208,7 @@
  
 <div align="center">
  
-> *Leading technology initiatives at one of Grainger's largest distribution facilities*
+> *Leading technology initiatives at large-scale distribution facilities*
  
 </div>
  
@@ -227,18 +226,18 @@
  
 ### 🤖 Warehouse Automation Integration
  
-- **Exotec Robotic Systems**: AMR storage and retrieval automation
+- **Robotic Storage Systems**: AMR storage and retrieval automation
 - **Automated Picking**: Small parts optimization and efficiency gains
-- **SPARCK Packaging**: Automated packaging solution integration
-- **LogistiVIEW WES**: Warehouse execution system deployment
-- **Dematic WCS**: Conveyor and material handling automation
+- **Automated Packaging**: Packaging solution integration
+- **Warehouse Execution**: WES deployment and optimization
+- **Material Handling**: Conveyor and WCS automation
  
 ### 🚨 Operational Excellence
  
-- **Incident Management**: Code Red event leadership and root cause analysis
+- **Incident Management**: Critical event leadership and root cause analysis
 - **Performance Optimization**: Ensuring optimal system response times
 - **Capacity Planning**: Supporting facility expansions and technology upgrades
-- **Team Collaboration**: Active GTGCIA retrospectives and continuous improvement
+- **Team Collaboration**: Active participation in retrospectives and continuous improvement
  
 ---
  
@@ -248,14 +247,14 @@
  
 ### 🎯 Mission-Critical Distribution Technology
  
-**Illinois Distribution Center | W.W. Grainger, Inc.**
+**Enterprise Distribution Center**
  
 </div>
  
 ```yaml
 🏭 Distribution Center Information Systems:
-  Facility: Illinois Distribution Center (ILDC), Minooka, IL
-  Team: Global Technology Group - Command Information Architecture (GTGCIA)
+  Facility: Enterprise Distribution Center
+  Team: Global Technology Group - Command Information Architecture
   Focus: Continuous Improvement & Automation
   
 🎯 Key Responsibilities:
@@ -319,15 +318,14 @@
  
 **Distribution Center Technology • SAP EWM • Warehouse Automation • System Integration**
  
-[![Email](https://img.shields.io/badge/📧_Email_Me-bill.maxon@grainger.com-EA4335?style=for-the-badge&logoColor=white)](mailto:bill.maxon@grainger.com)
+[![Email](https://img.shields.io/badge/📧_Email_Me-Contact_Me-EA4335?style=for-the-badge&logoColor=white)](mailto:contact@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&am…)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/billmaxon)
  
 ### 📍 Location & Team
  
-**Illinois Distribution Center, Minooka, IL**  
-**GTGCIA - Continuous Improvement and Automation**  
-**W.W. Grainger, Inc.**
+**Enterprise Distribution Center**  
+**Global Technology Group - Continuous Improvement and Automation**
  
 ---
  
@@ -345,7 +343,6 @@
  
 ![Made with ❤️ by Bill Maxon](https://img.shields.io/badge/Made_with_❤️_by-Bill_Maxon-blueviolet?style=for-the-badge)
 ![Last Updated](https://img.shields.io/badge/Last_Updated-November_2025-blue?style=for-the-badge)
-![Powered by Grainger](https://img.shields.io/badge/Powered_by-W.W._Grainger-red?style=for-the-badge)
  
 </div>
  
